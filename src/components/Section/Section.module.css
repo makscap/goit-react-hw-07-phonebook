@@ -1,0 +1,12 @@
+.sectionContainer {
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 300px;
+    margin-bottom: 15px;
+  }
+  
+  .title {
+    color: gray;
+    text-align: center;
+    margin: 0;
+  }
